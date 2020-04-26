@@ -1,2 +1,2 @@
 # Calculator Flutter Pink
- A calculator in Flutter for a study
+ A pink calculator in Flutter for a study
